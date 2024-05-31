@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: spalsh
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
