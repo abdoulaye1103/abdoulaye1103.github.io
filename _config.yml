@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Abdoulaye SAKHO"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /files/abd.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **PhD Candidate** @Artefact/LPSM."
   location         : "Paris, France"
   email            : "abdoulaye.sakho@artefact.com"
