@@ -13,4 +13,4 @@ Since December 2023, I am a PhD candidate (CIFRE) in Machine Learning at Artefac
 **Research interests**
 - Tree-based models 
 - Imbalanced data sets 
-- Explaianable AI 
+- Explainable AI 
