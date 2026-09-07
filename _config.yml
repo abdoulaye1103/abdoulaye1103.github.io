@@ -108,11 +108,11 @@ author:
   avatar           : /files/abd.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate"
   location         : "Paris, France"
-  email            : "abdoulaye.sakho@artefact.com"
+  #email            : "abdoulaye.sakho@artefact.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:abdoulaye.sakho@artefact.com"
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:abdoulaye.sakho@artefact.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=D7GtY20AAAAJ&hl=en&oi=ao"
 
 # Site Footer
