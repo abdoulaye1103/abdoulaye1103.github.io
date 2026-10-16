@@ -8,7 +8,7 @@ classes: publications-page
 
 Publications 
 ======
-**Weighting-Based Strategies for Classification: Analysis and Local Peak Dynamics with CART Trees** <br>
+**Weighting-Based Strategies for Classification: Analysis and Local Peak Dynamics with CART Trees**   ([paper](https://arxiv.org/pdf/2610.18037))<br>
 A. Sakho, E. Malherbe and E. Scornet.
 
 *Under Review*
@@ -16,7 +16,7 @@ A. Sakho, E. Malherbe and E. Scornet.
 <div class="publication-gap" aria-hidden="true"></div>
 
 **OT-FairBoost: Optimal Transport-Guided Gradient Boosting for Fairness Regularization on Tabular Data** ([paper](https://arxiv.org/pdf/2607.28014))<br>
-Shilova, V., Sakho, A., Boumoussou, Y., Risser, L., Loubes, J.M. and Malherbe, E.
+V. Shilova, A. Sakho, Y. Boumoussou, L. Risser, J.M. Loubes and E. Malherbe.
 
 *Under Review*
 
